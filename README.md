@@ -7,6 +7,7 @@
 ## Deskripsi
 <p>Aplikasi web ini memiliki fitur voting yang sesuai dengan akun pengguna. Pengguna dapat membuat akun, memilih paslon, melihat deskripsi paslon, dan melihat hasil voting dalam bentuk chart.</p>
 <hr>
+
 ## Description
 <p>This web application includes a voting feature linked to each user account. Users can create an account, select candidates, view candidate descriptions, and see voting results displayed in a chart.</p>
 
