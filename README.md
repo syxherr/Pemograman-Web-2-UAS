@@ -4,6 +4,13 @@
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
 </ul>
 
+## Deskripsi
+<p>Aplikasi web ini memiliki fitur voting yang sesuai dengan akun pengguna. Pengguna dapat membuat akun, memilih paslon, melihat deskripsi paslon, dan melihat hasil voting dalam bentuk chart.</p>
+<hr>
+## Description
+<p>This web application includes a voting feature linked to each user account. Users can create an account, select candidates, view candidate descriptions, and see voting results displayed in a chart.</p>
+
+
 ## Kelompok
 <ul>
   <li>Kelompok: Kelompok 12</li>
@@ -15,17 +22,6 @@
   </ul>
 </ul>
  
- ## Progress
-
- <ul>  
- <li>1. menambahkan fitur login</li>
- <li>2. menambahkan fitur register</li>
- <li>3. menambahkan fitur CRUD user </li>
- <li>4. menambahkan fitur CRUD Paslon </li>
-
- </ul>
-
-
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
